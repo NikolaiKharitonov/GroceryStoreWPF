@@ -1,0 +1,29 @@
+﻿<Page x:Class="KharitonovHik_GroceryStore.View.Pages.ListPurchase"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KharitonovHik_GroceryStore.View.Pages"
+        mc:Ignorable="d"
+        Title="ListPurchase" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="28*"></RowDefinition>
+            <RowDefinition Height="391*"></RowDefinition>
+            <RowDefinition Height="28*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+            <ColumnDefinition Width="44*"></ColumnDefinition>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="gridDataPurchase" Grid.Row="1" Grid.Column="1" IsReadOnly="True" ColumnWidth="*" AutoGenerateColumns="False" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Фамилия" Binding="{Binding Client.Surname}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Имя" Binding="{Binding Client.Name}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Количество" Binding="{Binding Quantity}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Дата покупки" Binding="{Binding DateOfPurchase}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>

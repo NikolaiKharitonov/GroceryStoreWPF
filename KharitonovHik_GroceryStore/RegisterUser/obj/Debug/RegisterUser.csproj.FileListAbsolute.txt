@@ -1,0 +1,15 @@
+E:\Visual2019practix\KharitonovHik_GroceryStore\RegisterUser\bin\Debug\RegisterUser.exe.config
+E:\Visual2019practix\KharitonovHik_GroceryStore\RegisterUser\bin\Debug\RegisterUser.exe
+E:\Visual2019practix\KharitonovHik_GroceryStore\RegisterUser\bin\Debug\RegisterUser.pdb
+E:\Visual2019practix\KharitonovHik_GroceryStore\RegisterUser\bin\Debug\EntityFramework.dll
+E:\Visual2019practix\KharitonovHik_GroceryStore\RegisterUser\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual2019practix\KharitonovHik_GroceryStore\RegisterUser\bin\Debug\HashPasswords.dll
+E:\Visual2019practix\KharitonovHik_GroceryStore\RegisterUser\bin\Debug\HashPasswords.pdb
+E:\Visual2019practix\KharitonovHik_GroceryStore\RegisterUser\bin\Debug\EntityFramework.xml
+E:\Visual2019practix\KharitonovHik_GroceryStore\RegisterUser\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual2019practix\KharitonovHik_GroceryStore\RegisterUser\bin\Debug\ru\EntityFramework.resources.dll
+E:\Visual2019practix\KharitonovHik_GroceryStore\RegisterUser\obj\Debug\RegisterUser.csproj.AssemblyReference.cache
+E:\Visual2019practix\KharitonovHik_GroceryStore\RegisterUser\obj\Debug\RegisterUser.csproj.CoreCompileInputs.cache
+E:\Visual2019practix\KharitonovHik_GroceryStore\RegisterUser\obj\Debug\RegisterUser.csproj.CopyComplete
+E:\Visual2019practix\KharitonovHik_GroceryStore\RegisterUser\obj\Debug\RegisterUser.exe
+E:\Visual2019practix\KharitonovHik_GroceryStore\RegisterUser\obj\Debug\RegisterUser.pdb
